@@ -1,0 +1,6 @@
+xarray
+cfgrib
+cdsapi
+matplotlib
+numpy
+ecmwf-api-client
