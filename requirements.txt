@@ -1,6 +1,7 @@
 xarray
+numpy
+scikit-learn
+matplotlib
+netCDF4
 cfgrib
 cdsapi
-matplotlib
-numpy
-ecmwf-api-client
