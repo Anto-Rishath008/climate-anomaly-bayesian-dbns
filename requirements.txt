@@ -1,10 +1,14 @@
-xarray
+# Core
 numpy
-scikit-learn
+pandas
 matplotlib
+scikit-learn
+xarray
 netCDF4
 cfgrib
 cdsapi
+
+# PyTorch + CUDA (driver is CUDA 12.x; wheels use cu121)
 torch
 torchvision
 torchaudio

@@ -1,7 +1,26 @@
-*.pyc
+# Python
 __pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Data & artifacts
+data/
 *.nc
+*.grib
 *.npy
+*.pt
+*.ckpt
+
+# Environments
 .env
-.envrc
-.climate_env
+.env.*
+.venv/
+venv/
+climate_env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets
+.cdsapirc
